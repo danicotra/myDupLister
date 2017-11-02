@@ -13,5 +13,5 @@ Parameters let's you choose whether or not include 0 sized files in the matching
 This uses scandir and requires Python >= 3.5
 
 USEFUL REFERENCES:
-http://benhoyt.com/writings/scandir/
-https://github.com/benhoyt/scandir
+* http://benhoyt.com/writings/scandir/
+* https://github.com/benhoyt/scandir
